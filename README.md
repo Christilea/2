@@ -1,1 +1,1 @@
-# 
+# This homework assignment follows agile project management conventions, providing a user story, acceptance criteria, a mock-up demonstrating the application functionality, and review guidelines.  We are to review the code, and to make any changes that are needed according to the acceptance criteria. 
